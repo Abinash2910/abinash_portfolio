@@ -39,12 +39,7 @@ const socialLinks = [
     label: "GitHub",
     hoverColor: "hover:text-white hover:shadow-white/20",
   },
-//   {
-//   icon: FaInstagram,
-//   href: "https://www.instagram.com/abinashbehera__10/?hl=en",
-//   label: "Instagram",
-//   hoverColor: "hover:text-pink-400 hover:shadow-pink-400/30",
-// },
+
 
 ];
 

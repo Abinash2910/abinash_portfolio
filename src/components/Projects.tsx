@@ -56,30 +56,7 @@ const projects: Project[] = [
   },
 ];
 
-// function EstimatorLogo() {
-//   return (
-//     <svg width="180" height="80" viewBox="0 0 180 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-//       {/* Chart icon with upward trend */}
-//       <rect x="20" y="20" width="40" height="40" rx="8" stroke="url(#estGrad)" strokeWidth="2" fill="none" />
-//       {/* Bar chart bars */}
-//       <rect x="28" y="42" width="6" height="14" rx="1" fill="#a855f7" opacity="0.6" />
-//       <rect x="37" y="35" width="6" height="21" rx="1" fill="#a855f7" opacity="0.8" />
-//       <rect x="46" y="28" width="6" height="28" rx="1" fill="#a855f7" />
-//       {/* Trend arrow */}
-//       <path d="M30 38L40 30L50 25" stroke="#ec4899" strokeWidth="2" strokeLinecap="round" />
-//       <path d="M46 24L51 24L51 29" stroke="#ec4899" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-//       {/* Text */}
-//       <text x="68" y="36" fontFamily="sans-serif" fontSize="13" fontWeight="700" fill="#a855f7">Project</text>
-//       <text x="68" y="52" fontFamily="sans-serif" fontSize="13" fontWeight="700" fill="#ec4899">Estimator</text>
-//       <defs>
-//         <linearGradient id="estGrad" x1="20" y1="20" x2="60" y2="60">
-//           <stop stopColor="#a855f7" />
-//           <stop offset="1" stopColor="#ec4899" />
-//         </linearGradient>
-//       </defs>
-//     </svg>
-//   );
-// }
+
 
 function BotLogo() {
   return (

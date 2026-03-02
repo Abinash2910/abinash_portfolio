@@ -50,7 +50,7 @@ export default function Home() {
 
         <Projects />
 
-        <FeaturedProject />
+        
 
         <div className="relative h-px max-w-5xl mx-auto">
           <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/[0.06] to-transparent" />
