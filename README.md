@@ -1,41 +1,78 @@
-# 🚀 Personal Portfolio Website
+<div align="center">
 
-A modern, fast, and fully responsive personal portfolio website built to showcase my projects, skills, and professional journey as a software developer.
+# 🚀 Abinash Behera  
+### Full Stack Developer | MERN + Next.js | AI Enthusiast  
 
-This portfolio is built using the latest **Next.js App Router**, **TypeScript**, and **Tailwind CSS**, with a strong focus on clean UI, smooth animations, and performance.
+✨ Building scalable, high-performance & production-ready web applications.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-000?style=for-the-badge)](https://abinashbehera01.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Abinash2910)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abinashbehera01/)
+
+</div>
 
 ---
 
-## 🌟 Live Demo
+## 🌟 About This Portfolio
 
-🔗 **Portfolio:** https://your-portfolio-link.com  
-📦 **Repository:** https://github.com/your-username/MY_PORTFOLIO
+A modern, fast, and fully responsive personal portfolio website built to showcase my:
+
+- 🚀 Projects  
+- 🧠 Technical Skills  
+- 💼 Professional Journey  
+- 📬 Contact & Collaboration  
+
+Built using the latest **Next.js App Router**, **TypeScript**, and **Tailwind CSS** with a strong focus on:
+
+> Performance ⚡ | Clean UI 🎨 | Smooth Animations 🎬 | Scalable Architecture 🧩  
 
 ---
 
 ## ✨ Key Features
 
-- ⚡ Built with **Next.js (App Router)**
-- 🎨 Clean, modern & professional UI
-- 📱 Fully responsive for all devices
-- 🧩 Modular & reusable components
-- 🎥 Smooth animations & transitions
-- 🌌 Particle background effects
-- 📂 Featured & all projects section
-- 📬 Contact section for collaboration
-- 🚀 Production-ready & optimized
+- ⚡ Built with **Next.js 14 (App Router Architecture)**
+- 🎨 Minimal, clean & professional UI
+- 📱 Fully responsive (Mobile • Tablet • Desktop)
+- 🎬 Smooth animations using Framer Motion
+- 🌌 Interactive particle background
+- 🧩 Reusable & modular component structure
+- 📂 Featured & Production-Deployed Projects
+- 📬 Functional contact section
+- 🚀 SEO & performance optimized
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Next.js (App Router)
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS
-- **Animations:** Framer Motion
-- **Linting:** ESLint
-- **Deployment:** Vercel
-- **Version Control:** Git & GitHub
+| Category        | Technology |
+|-----------------|------------|
+| 🧠 Framework    | Next.js (App Router) |
+| 💻 Language     | TypeScript |
+| 🎨 Styling      | Tailwind CSS |
+| 🎥 Animations   | Framer Motion |
+| 🧹 Linting      | ESLint |
+| ☁️ Deployment   | Vercel |
+| 🔁 Version Ctrl | Git & GitHub |
 
 ---
+
+## 📂 Featured Projects
+
+### 📈 GrowTrade  
+Real-time stock trading platform with authentication, live updates & AWS deployment.
+
+### 🎥 Zoomy  
+WebRTC-based video conferencing application with real-time chat & Socket.io signaling.
+
+### 🤖 SigmaGPT  
+AI-powered chat application with authentication, chat history & backend API integration.
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Abinash2910/abinash_portfolio.git
 
