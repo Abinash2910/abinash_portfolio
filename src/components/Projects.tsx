@@ -36,7 +36,7 @@ const projects: Project[] = [
       "A real-time video conferencing platform.",
     longDescription:
       "A real-time video conferencing platform built with React, WebRTC, and Socket.IO, offering high-quality video and audio calls along with simultaneous real-time chat for effective online communication.",
-    github: "https://github.com/Abinash2910/zoomy",
+    github: "https://github.com/Abinash2910/ZOMMY",
     tags: ["🎥 Real-Time Video Calling", "🎧 Live Audio Streaming","💬 Real-time chat"],
     image: "/images/zoomy.png",
     accent: "from-purple-500 to-pink-500",
